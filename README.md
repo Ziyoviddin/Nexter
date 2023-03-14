@@ -133,7 +133,7 @@ Here is the list of some cool tools used throughout this course:
 
 ### License
 
-*Copyright notice: [I am not offering any license!](
+*Copyright notice: I am not offering any license!
 
 
 
