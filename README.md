@@ -73,7 +73,7 @@ This project uses SVG sprite generated through [icomoon.app](https://icomoon.io/
 </svg>
 ```
 
-[Click here for more details about SVG Icons and Icon Fonts.](https://github.com/Irozaih/trillo#svg-icons-vs-icon-fonts "Trillo: A Flexbox Project")
+[Click here for more details about SVG Icons and Icon Fonts.](https://github.com/Ziyoviddin/trillo-projetc-css#svg-icons-vs-icon-fonts "Trillo: A Flexbox Project")
 
 SVG is supported in all major browsers and IE9+ (with a couple of known issues). *[See browser support for SVG.](https://caniuse.com/?search=svg)*
 
