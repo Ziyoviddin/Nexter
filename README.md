@@ -132,8 +132,7 @@ Here is the list of some cool tools used throughout this course:
 ---
 
 ### License
-
-*Copyright notice: I am not offering any license!
+Copyright &copy; 2023 by Ziyoviddin. **All rights reserved.**
 
 
 
